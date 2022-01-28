@@ -1,2 +1,2 @@
 # Sales-and-Ranking-Dashboard
-I have created a Sales and Ranking Dashboard using Power BI.
+In this project I have used Power BI to build and designed an interactive dashboard in Power BI.
